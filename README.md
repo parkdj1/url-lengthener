@@ -5,7 +5,6 @@ Enter in that short to medium length url and get an outrageously long one to rep
 Why, you ask?
 To that I declare, why not??
 
-> Author: Deborah Park
-> Modeled after guide by Palash Bauri
-> To learn JavaScript and practice HTML with a practical application!
-> Used jsontstore.io
+> Author: Deborah Park\n
+> Modeled after guide by Palash Bauri\n
+> To learn JavaScript/jQuery, and practice HTML with a practical application!
