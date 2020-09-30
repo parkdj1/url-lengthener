@@ -5,6 +5,6 @@ Enter in that short to medium length url and get an outrageously long one to rep
 Why, you ask?
 To that I declare, why not??
 
-> Author: Deborah Park\n
-> Modeled after guide by Palash Bauri\n
+> Author: Deborah Park<br />
+> Modeled after guide by Palash Bauri<br />
 > To learn JavaScript/jQuery, and practice HTML with a practical application!
